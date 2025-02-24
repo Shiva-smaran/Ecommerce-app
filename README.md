@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Dependencies
+
+TailwindCSS.\
+npm install -D tailwindcss@3.4.0 postcss autoprefixer
+npx tailwindcss init -p
+
+ReactRouter.\
+npm install react-router-dom
+
 ## Available Scripts
 
 In the project directory, you can run:
